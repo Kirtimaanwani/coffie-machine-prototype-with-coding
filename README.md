@@ -1,3 +1,11 @@
+## Steps to run
+```
+git clone https://github.com/Kirtimaanwani/coffie-machine-prototype-with-coding.git
+cd coffie-machine-prototype-with-coding
+python coffie_machine.py
+```
+
+
 ### Coffee Machine Program Requirements
 ```
 Prompt user by asking “ What would you like? (espresso/latte/cappuccino): ”
